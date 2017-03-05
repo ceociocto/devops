@@ -1,0 +1,5 @@
+---
+applications:
+ - name: xinxin
+   random-route: true
+   memory: 256M
